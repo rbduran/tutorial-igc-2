@@ -1,1 +1,1 @@
-grep ^HFGIDGLIDERID: 1c7267ab.igc | cut -c 15-
+grep ^HFGIDGLIDERID: $1 | cut -c 15-
